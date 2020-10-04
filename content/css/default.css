@@ -3,10 +3,10 @@ body {
 }
 img {
   height:70vh;
-  padding-top: 12.5vh;
-  padding-bottom: 5vh;
+  padding-top: 5vh;
+  padding-bottom: 12.5vh;
 }
 
 form {
-  padding-bottom: 12.5vh;
+  padding-top: 12.5vh;
 }
