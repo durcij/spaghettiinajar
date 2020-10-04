@@ -2,7 +2,11 @@ body {
   background-color: #518cca;
 }
 img {
-  height:75vh;
+  height:7vh;
   padding-top: 12.5vh;
+  padding-bottom: 5vh;
+}
+
+form {
   padding-bottom: 12.5vh;
 }
