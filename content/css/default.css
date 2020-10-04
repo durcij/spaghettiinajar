@@ -1,12 +1,13 @@
 body {
   background-color: #518cca;
 }
+
+form {
+  padding-top: 12.5vh;
+}
+
 img {
   height:70vh;
   padding-top: 5vh;
   padding-bottom: 12.5vh;
-}
-
-form {
-  padding-top: 12.5vh;
 }
