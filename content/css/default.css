@@ -25,6 +25,9 @@ img {
 }
 
 @media only screen and (max-width: 75vmax) {
+  form {
+    padding-bottom: 0vh;
+  }
   img {
     width: 70%;
     height: auto;
