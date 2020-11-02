@@ -13,6 +13,7 @@ form {
 
 img {
   height: 70%;
+  width: auto;
   padding: 15% 2.5% 15% 2.5%;
 }
 
@@ -26,6 +27,7 @@ img {
 @media only screen and (max-width: 75vmax) {
   img {
     width: 70%;
+    height: auto;
     padding: 15% 2.5% 15% 2.5%;
   }
   .jar {
