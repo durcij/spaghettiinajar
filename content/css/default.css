@@ -3,17 +3,17 @@ body {
 }
 
 form {
-  padding-bottom: 12vh;
+  padding-bottom: 12.25vh;
 }
 
 img {
-  width:  40%;
-  padding: .5vh .5vh .5vh .5vh;
+  height: 90%;
+  padding: 5% 5% 2.5% 2.5%;
 }
 
 .jar {
   height: 70vmin;
   width: 70vmin;
-  padding-top: 12vh;
+  padding-top: 12.25vh;
   padding-bottom:5vh;
 }
