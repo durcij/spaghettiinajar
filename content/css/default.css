@@ -1,9 +1,11 @@
 body {
   background-color: #518cca;
+  height: 100vh;
+  width: 100vw;
 }
 
 form {
-  padding-bottom: 12.25vh;
+  padding-bottom: 12.25%;
 }
 
 img {
@@ -14,6 +16,6 @@ img {
 .jar {
   height: 70vmin;
   width: 70vmin;
-  padding-top: 12.25vh;
-  padding-bottom:5vh;
+  padding-top: 12.25%;
+  padding-bottom:5%;
 }
