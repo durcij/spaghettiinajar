@@ -7,7 +7,14 @@ form {
 }
 
 img {
-  height:70vh;
-  padding-top: 12.5vh;
+  height:70%;
+  padding-top: 5vh;
+  padding-bottom: 12.5vh;
+}
+
+.jar {
+  height: 70vmin;
+  width: 70vmin;
+  padding-top: 12.25vh;
   padding-bottom:5vh;
 }
