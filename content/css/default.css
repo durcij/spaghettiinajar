@@ -1,5 +1,10 @@
 body {
   background-color: #518cca;
+  height: 90vh;
+}
+
+center {
+  height: 100%;
 }
 
 form {
@@ -7,7 +12,31 @@ form {
 }
 
 img {
-  height:70vh;
-  padding-top: 12.5vh;
-  padding-bottom:5vh;
+  height: 70%;
+  width: auto;
+  padding: 15% 2.5% 15% 2.5%;
+}
+
+.jar {
+  height: 70vmin;
+  width: 80vmin;
+  padding-top: 6vh;
+  padding-bottom: 5vh;
+}
+
+@media only screen and (max-width: 75vmax) {
+  form {
+    padding-bottom: 0vh;
+  }
+  img {
+    width: 70%;
+    height: auto;
+    padding: 2.5% 2.5% 2.5% 2.5%;
+  }
+  .jar {
+    height: auto;
+    width: 80vmin;
+    padding-top: 3.5vh;
+    padding-bottom: 5vh;
+  }
 }
