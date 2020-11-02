@@ -13,13 +13,12 @@ form {
 
 img {
   height:70%;
-  padding-top: 5vh;
-  padding-bottom: 12.5vh;
+  padding: 15% 2.5% 15% 2.5%;
 }
 
 .jar {
   height: 70vmin;
   width: 80vmin;
-  padding-top: 12.25%;
+  padding-top: 12.5%;
   padding-bottom:5%;
 }
