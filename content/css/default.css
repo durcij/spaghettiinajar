@@ -4,7 +4,7 @@ body {
 }
 
 form {
-  padding-bottom: 12.5vh;
+  padding-bottom: 12.5%;
 }
 
 img {
@@ -16,6 +16,6 @@ img {
 .jar {
   height: 70vmin;
   width: 80vmin;
-  padding-top: 12.25vh;
-  padding-bottom:5vh;
+  padding-top: 12.25%;
+  padding-bottom:5%;
 }
