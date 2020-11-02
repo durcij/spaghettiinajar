@@ -28,10 +28,10 @@ img {
   img {
     width: 70%;
     height: auto;
-    padding: 15% 2.5% 15% 2.5%;
+    padding: 2.5% 2.5% 2.5% 2.5%;
   }
   .jar {
-    height: 70vmin;
+    height: auto;
     width: 80vmin;
     padding-top: 6vh;
     padding-bottom: 5vh;
