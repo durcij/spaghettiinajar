@@ -12,13 +12,26 @@ form {
 }
 
 img {
-  height:70%;
+  height: 70%;
   padding: 15% 2.5% 15% 2.5%;
 }
 
 .jar {
   height: 70vmin;
   width: 80vmin;
-  padding-top: 12.5vh;
+  padding-top: 6vh;
   padding-bottom: 5vh;
+}
+
+@media only screen and (max-width: 75vmax) {
+  img {
+    width: 70%;
+    padding: 15% 2.5% 15% 2.5%;
+  }
+  .jar {
+    height: 70vmin;
+    width: 80vmin;
+    padding-top: 6vh;
+    padding-bottom: 5vh;
+  }
 }
