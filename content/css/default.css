@@ -3,10 +3,6 @@ body {
   height: 90vh;
 }
 
-center {
-  height: 100%;
-}
-
 form {
   padding-bottom: 12.5vh;
   padding-left: auto;
@@ -19,9 +15,15 @@ img {
   padding: 15% 2.5% 15% 2.5%;
 }
 
+.container {
+  height:  70%;
+  padding-top: auto;
+  padding-bottom: auto;
+}
+
 .jar {
   height: 70vmin;
-  width: 80vmax;
+  width: 100%;
   padding-top: 5vh;
   padding-bottom: 5vh;
   padding-left: auto;
