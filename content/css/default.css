@@ -10,9 +10,13 @@ form {
 }
 
 img {
+  position: absolute;
+  top: 50%;
   height: 70%;
   width: auto;
-  padding: auto 2.5% auto 2.5%;
+  transform: translateY(-50%);
+  padding-left: 2.5%;
+  padding-right: 2.5%;
 }
 
 .jar {
