@@ -3,6 +3,10 @@ body {
   height: 90vh;
 }
 
+center {
+  height:  100%
+}
+
 form {
   padding-bottom: 12.5vh;
   margin-left: auto;
