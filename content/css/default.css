@@ -21,14 +21,14 @@ img {
 
 .jar {
   height: 70vmin;
-  width: 80vmin;
+  width: 80vmax;
   padding-top: 6vh;
   padding-bottom: 5vh;
   padding-left: auto;
   padding-right: auto;
 }
 
-@media only screen and (max-width: 75vmax) {
+@media only screen and (orientation: portrait) {
   form {
     padding-bottom: 0vh;
   }
