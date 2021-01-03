@@ -9,6 +9,8 @@ center {
 
 form {
   padding-bottom: 12.5vh;
+  padding-left: auto;
+  padding-right: auto;
 }
 
 img {
@@ -22,6 +24,8 @@ img {
   width: 80vmin;
   padding-top: 6vh;
   padding-bottom: 5vh;
+  padding-left: auto;
+  padding-right: auto;
 }
 
 @media only screen and (max-width: 75vmax) {
