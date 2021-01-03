@@ -10,11 +10,11 @@ form {
 }
 
 img {
-  width: auto;
+  height: 70%;
   padding-left: 2.5%;
   padding-right: 2.5%;
-  padding-top: 12.5%;
-  padding-bottom: 12.5%;
+  padding-top: 15%;
+  padding-bottom: 15%;
 }
 
 .jar {
