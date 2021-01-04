@@ -4,27 +4,33 @@ body {
 }
 
 center {
-  height: 100%;
+  height:  100%
 }
 
 form {
   padding-bottom: 12.5vh;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 img {
   height: 70%;
-  width: auto;
-  padding: 15% 2.5% 15% 2.5%;
+  padding-left: 2.5%;
+  padding-right: 2.5%;
+  margin-top: 7.5%;
+  margin-bottom: 10%;
 }
 
 .jar {
   height: 70vmin;
-  width: 80vmin;
+  width: 75vmax;
   padding-top: 6vh;
   padding-bottom: 5vh;
+  margin-left: auto;
+  margin-right: auto;
 }
 
-@media only screen and (max-width: 75vmax) {
+@media only screen and (orientation: portrait) {
   form {
     padding-bottom: 0vh;
   }
